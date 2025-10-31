@@ -39,10 +39,10 @@ This dashboard enables the HR department to quickly answer critical questions, s
 للاطلاع على التقرير بشكل مرئي:
 
 ### 1. Employee Overview
-![Employee Analysis Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM.jpeg)
+![[Employee Analysis Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM.jpeg](https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard/blob/main/screenshots/WhatsApp%20Image%202025-10-31%20at%207.43.28%20PM.jpeg)
 
 ### 2. Salary & Satisfaction Analysis
-![Salary and Satisfaction Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-2.jpeg)
+![[Salary and Satisfaction Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-2.jpeg](https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard/blob/main/screenshots/WhatsApp%20Image%202025-10-31%20at%207.43.28%20PM-2.jpeg)
 
 ### 3. Employee Details
-![Employee Details Table Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-3.jpeg)
+![[Employee Details Table Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-3.jpeg](https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard/blob/main/screenshots/WhatsApp%20Image%202025-10-31%20at%207.43.28%20PM-3.jpeg)
