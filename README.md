@@ -22,7 +22,7 @@ The dashboard is structured into three dedicated pages using **Page Navigation**
 ## ⚙️ Tools & Techniques Used
 
 * **Primary Tool:** Microsoft Power BI Desktop
-* **DAX Measures:** Used simple calculated measures (: **Total Employees**) to create key performance indicators (KPIs).
+* **DAX Measures:** Used simple calculated measures (**Total Employees**) to create key performance indicators (KPIs).
 * **Visualization & UX:** Utilized various chart types (Doughnut, Bar charts) and implemented **Page Navigation** for smooth reporting flow.
 
 ## 📈 Value & Key Insights
