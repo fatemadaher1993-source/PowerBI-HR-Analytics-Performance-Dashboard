@@ -34,3 +34,15 @@ This dashboard enables the HR department to quickly answer critical questions, s
 * What is the current distribution of active vs. terminated employees across the organization?
 
 ---
+## 🖼️ Dashboard Snapshots (لقطات الشاشة)
+
+للاطلاع على التقرير بشكل مرئي:
+
+### 1. Employee Overview
+![Employee Analysis Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM.jpeg)
+
+### 2. Salary & Satisfaction Analysis
+![Salary and Satisfaction Dashboard Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-2.jpeg)
+
+### 3. Employee Details
+![Employee Details Table Page](screenshots/WhatsApp Image 2025-10-31 at 7.43.28 PM-3.jpeg)
