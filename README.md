@@ -34,7 +34,7 @@ This dashboard enables the HR department to quickly answer critical questions, s
 * What is the current distribution of active vs. terminated employees across the organization?
 
 ---
-## 🖼️ Dashboard Snapshots (لقطات الشاشة)
+## 🖼️ Dashboard Snapshots 
 
 للاطلاع على التقرير بشكل مرئي:
 
